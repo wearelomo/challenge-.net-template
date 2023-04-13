@@ -1,0 +1,10 @@
+C:\Users\matia\Lomo Group\Development\Challenges\.net-backend-challenge-template\test-db\bin\Debug\test-db.dacpac
+C:\Users\matia\Lomo Group\Development\Challenges\.net-backend-challenge-template\test-db\bin\Debug\test_db.dll
+C:\Users\matia\Lomo Group\Development\Challenges\.net-backend-challenge-template\test-db\bin\Debug\test_db.pdb
+C:\Users\matia\Lomo Group\Development\Challenges\.net-backend-challenge-template\test-db\obj\Debug\test-db.sqlprojAssemblyReference.cache
+C:\Users\matia\Lomo Group\Development\Challenges\.net-backend-challenge-template\test-db\obj\Debug\Model.xml
+C:\Users\matia\Lomo Group\Development\Challenges\.net-backend-challenge-template\test-db\obj\Debug\refactor.xml
+C:\Users\matia\Lomo Group\Development\Challenges\.net-backend-challenge-template\test-db\obj\Debug\postdeploy.sql
+C:\Users\matia\Lomo Group\Development\Challenges\.net-backend-challenge-template\test-db\obj\Debug\predeploy.sql
+C:\Users\matia\Lomo Group\Development\Challenges\.net-backend-challenge-template\test-db\obj\Debug\test_db.dll
+C:\Users\matia\Lomo Group\Development\Challenges\.net-backend-challenge-template\test-db\obj\Debug\test_db.pdb

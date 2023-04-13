@@ -1,0 +1,4 @@
+﻿CREATE PROCEDURE [dbo].[GetPeople]
+AS BEGIN
+	SELECT * FROM People
+END
